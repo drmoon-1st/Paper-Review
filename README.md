@@ -1,1 +1,1 @@
-![cylinder](https://capsule-render.vercel.app/api?type=waving&height=200&text=Welcome%20to%20Paper-Review%20page!&fontAlign=60&fontAlignY=40&color=gradient&customColorList=6&animation="_blink")
+![header](https://capsule-render.vercel.app/api?type=cylinder&color=auto&height=300&section=header&text=Welcome%20to%20Paeper-Review%20page&fontSize=90%animation="_blink")
